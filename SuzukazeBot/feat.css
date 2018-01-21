@@ -1,0 +1,75 @@
+* {
+	background-color: #dda0dd;
+}
+
+img {
+	position: relative;
+	left: 75px;
+	top: 10px;
+}
+
+h6 {
+	position: relative;
+	font-size: 24px;
+	border: 2px solid black;
+	border-radius: 4px;
+}
+
+.h{
+	left: 250px;
+	top: -80px;
+	width: 65px;
+}
+
+.f {
+	left: 500px;
+	top: -166px;
+	width: 94px;
+}
+
+.d {
+	left: 1000px;
+	top: -252px;
+	width: 109px;
+}
+
+.p {
+	width: 130px;
+	left: 750px;
+	top: -339px;
+}
+
+.mid {
+	position: relative;
+	top: -230px;
+	width: 980px;
+	left: 170px;
+	background-color: white;
+}
+
+h1 {
+	font-family: "Fira Sans";
+	font-size: 48px;
+	text-align: center;
+}
+
+h1, h4, h5 {
+	background-color: white;
+}
+
+h4, h5 {
+	text-align: left;
+	padding-left: 25px;
+}
+
+h4 {
+	font-size: 38px;
+	font-family: inconsolata;
+	font-weight: bold;
+}
+
+h5 {
+	font-size: 22px;
+	font-family: arvo;
+	padding-bottom: 40px;
+}
